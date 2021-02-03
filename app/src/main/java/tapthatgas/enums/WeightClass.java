@@ -1,0 +1,9 @@
+package tapthatgas.enums;
+
+public enum WeightClass {
+    WEIGHT_CLASS_HEAVY,
+    WEIGHT_CLASS_MEDIUM_HEAVY,
+    WEIGHT_CLASS_MEDIUM,
+    WEIGHT_CLASS_MEDIUM_LIGHT,
+    WEIGHT_CLASS_LIGHT
+}

@@ -23,7 +23,7 @@
                         android:startColor="#1fc23a"
                         android:centerColor="#0b131e"
                         android:centerY="1.0"
-                        android:endColor="#06101d"
+                        android:endColor="#0d1522"
                         android:angle="180"
                         />
                 </shape>
